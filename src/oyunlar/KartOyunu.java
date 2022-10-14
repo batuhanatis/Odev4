@@ -45,7 +45,7 @@ public class KartOyunu extends Oyun {
 	
 	public void kartOyna() {
 		super.play();
-		System.out.println("Önce kartları karıştır sonra herkese 4er tane dağıt.");
+		System.out.println("Önce kartları karıştır sonra herkese dağıt.");
 	
 	}
 
